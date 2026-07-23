@@ -10,7 +10,7 @@ https://make-my-day-website.vercel.app/
 
 ## 📸 Preview
 
-(previeww.png)
+![Website Preview](assets/previeww.png)
 
 ---
 
